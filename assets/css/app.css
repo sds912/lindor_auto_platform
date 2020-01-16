@@ -1,0 +1,12 @@
+body {
+    background-color: #e5e5e5;
+}
+.nav-link{
+    font-size: 14px;
+}
+.header{
+  width: 100%;
+  height: calc(100vh);
+  background-color: red;
+}
+
